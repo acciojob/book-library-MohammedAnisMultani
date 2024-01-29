@@ -37,12 +37,13 @@
 button{
     width: 100%;
     padding: 5px;
-    background-color:#2ecc71;
+   background-color: rgb(46, 204, 113);
     border: none;
     color: white;
 }
 .pic
 {
+	
     display: flex;
     justify-content: center;
 }
