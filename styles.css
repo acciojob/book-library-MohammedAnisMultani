@@ -43,7 +43,7 @@ button{
 }
 .pic
 {
-	
+	background-color: rgb(46, 204, 113);
     display: flex;
     justify-content: center;
 }
